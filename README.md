@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently studying on **Bina Nusantara University**
 
-- 🌱 I’m currently learning **Python, CSS, HTML, and Web develops**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 👯 I’m looking to collaborate on **Python, CSS, HTML**
+- 👯 I’m looking to collaborate on **Python, CSS, HTML, Java Scripts**
 
 - 🤝 I’m looking for help with **Python, Web develops,and Machine Learning**
 
