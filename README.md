@@ -55,15 +55,6 @@ I'm a self-driven learner who thrives on curiosity, constantly exploring new con
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![David's GitHub Stats](https://github-readme-stats.vercel.amplify.pro/api?username=gretil3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.amplify.pro/api/top-langs/?username=gretil3&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
