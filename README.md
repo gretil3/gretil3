@@ -1,26 +1,85 @@
-<h1 align="center">Hi, I'm David Sinambela</h1>
-<h3 align="center">A passionate learner from Indonesia</h3>
+<div align="center">
 
-- 🔭 I’m currently studying on **Bina Nusantara University**
+# David Sinambela
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+**AI & Machine Learning Enthusiast · Bina Nusantara University**
 
-- 👯 I’m looking to collaborate on **Python, CSS, HTML, Java Scripts**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-sinambela-754a89324)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dvd_snmbela4)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/david.sinambela)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinambeladavid087@gmail.com)
 
-- 🤝 I’m looking for help with **Python, Web develops,and Machine Learning**
+</div>
 
-- ⚡ Fun fact [I hate dust](I hate dust)
+---
 
-- 📫 How to reach me **sinambeladavid087@gmail.com**
+## 👋 About Me
 
-- 📄 Know about my experiences **www.linkedin.com/in/david-sinambela-754a89324**
+I'm a Computer Science student at **Bina Nusantara University**, Indonesia, with a deep passion for **Artificial Intelligence** and its real-world applications. I believe that the most transformative problems of our era will be solved with intelligent systems — and I'm working every day to be part of that solution.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/david sinambela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david sinambela" height="30" width="40" /></a>
-<a href="https://fb.com/david sinambela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david sinambela" height="30" width="40" /></a>
-<a href="https://instagram.com/dvd_snmbela4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dvd_snmbela4" height="30" width="40" /></a>
-</p>
+I'm a self-driven learner who thrives on curiosity, constantly exploring new concepts in **Machine Learning**, **Deep Learning**, and **data-driven thinking**. Outside of tech, I have a strong eye for design and creative problem-solving.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🎯 What I'm Up To
+
+- 🧠 Deepening my knowledge in **Machine Learning & Deep Learning** — models, architectures, and applications
+- 🌐 Building my foundation in **Full-Stack Web Development** (HTML, CSS, JavaScript)
+- 🔍 Actively looking for **open-source projects and collaborations** to apply and grow my skills
+- 📚 Studying **Python** as my primary tool for AI/ML development
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm open to collaborating on:
+- 🤖 **Machine Learning & AI projects** — from data preprocessing to model deployment
+- 🌐 **Web development projects** — building useful and clean interfaces
+- 📊 **Data analysis & visualization** — turning raw data into insight
+
+If you have an interesting idea or just want to connect, feel free to reach out via [email](mailto:sinambeladavid087@gmail.com) or [LinkedIn](https://www.linkedin.com/in/david-sinambela-754a89324).
+
+---
+
+<div align="center">
+
+*"The best way to predict the future is to build it."*
+
+</div>
