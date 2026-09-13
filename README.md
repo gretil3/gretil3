@@ -68,9 +68,3 @@ I'm always open to collaborating on:
 If you have an interesting idea or just want to connect, feel free to reach out via [email](mailto:sinambeladavid087@gmail.com) or [LinkedIn](https://www.linkedin.com/in/david-sinambela-754a89324).
 
 <br>
-
-<div align="center">
-
-*"The best way to predict the future is to build it."*
-
-</div>
